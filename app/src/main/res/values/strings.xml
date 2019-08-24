@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Brown Car Invoice</string>
+    <string name="login_button">Login</string>
+    <string name="login_message">Welcome to the Login Page</string>
+    <string name="submit_button">Submit</string>
+</resources>
