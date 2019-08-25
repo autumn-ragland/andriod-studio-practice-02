@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Brown Car Invoice</string>
     <string name="login_button">Login</string>
-    <string name="login_message">Welcome to the Login Page</string>
+    <string name="login_message">Login Page</string>
     <string name="submit_button">Submit</string>
+    <string name="create_account_button_text">Create Account</string>
+    <string name="app_title_text">Brown Car Invoice App</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="list_of_clients_title">List of Clients</string>
+    <string name="sample_customer">Sample Customer</string>
+    <string name="view_button_text">View</string>
 </resources>
