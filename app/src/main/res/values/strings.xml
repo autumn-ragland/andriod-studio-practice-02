@@ -10,4 +10,5 @@
     <string name="list_of_clients_title">List of Clients</string>
     <string name="sample_customer">Sample Customer</string>
     <string name="view_button_text">View</string>
+    <string name="new_invoice_button_text">New Invoice</string>
 </resources>
